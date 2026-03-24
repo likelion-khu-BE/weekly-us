@@ -20,6 +20,6 @@
 
 | 라벨 | 용도 |
 |------|------|
-| `content` | Content 도메인 |
-| `community` | Community 도메인 |
-| `core` | Core 도메인 |
+| `Content Team` | Content 도메인 |
+| `Community Team` | Community 도메인 |
+| `Core Team` | Core 도메인 |
