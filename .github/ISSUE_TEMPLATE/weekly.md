@@ -1,7 +1,7 @@
 ---
 name: Weekly
 about: 주간 활동 기록
-title: "[이름] n주차"
+title: "[n주차] 본인이름"
 labels: ''
 assignees: ''
 ---
